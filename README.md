@@ -1,7 +1,6 @@
 # Composition-Aware Image Aesthetic Assessment with Saliency-Guided Feature Modulation
 
-[![Report](https://img.shields.io/badge/PDF-Download%20Report-red.svg)](./ML_Final_Report_Group_17.pdf)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Report](https://img.shields.io/badge/PDF-Download%20Report-red.svg)](./docs/Final_Report.pdf)
 
 > **Official implementation** for the paper: "Composition-Aware Image Aesthetic Assessment with Saliency-Guided Feature Modulation: Beyond the Eye of the Beholder".
 > 
@@ -11,9 +10,7 @@
 > **Instructor**: Berrie Chen
 
 ---
-## 🎥 Demo Video
-
-Check out our real-time demo application:
+## 🎥 Presentation Video
 
 [![Watch the video](https://img.youtube.com/vi/WSACYn0GRmE/maxresdefault.jpg)](https://www.youtube.com/watch?v=WSACYn0GRmE)
 
