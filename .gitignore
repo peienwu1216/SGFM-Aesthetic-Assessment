@@ -1,0 +1,83 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Environment Variables
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env
+
+# IDE / Editor
+.idea/
+.vscode/
+*.swp
+*.swo
+.ds_store
+.DS_Store
+.cursor/
+
+# Node.js / Frontend
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+app_demo/frontend/dist/
+app_demo/frontend/build/
+app_demo/frontend/.eslintcache
+
+# Project Specific
+# Model checkpoints
+*.pth
+*.pt
+*.ckpt
+
+# Logs and specific app directories
+logs/
+uploaded/
+upload_log.json
+
+# Generated assets (optional, depending on if you want to track results)
+# *.png
+# *.jpg
+# But keeping comparison images in assets/ is usually good.
+# Ignore generated gradcam images in experiment folders if desired:
+**/gradcam_epoch_*.png
+
+# Mac
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
