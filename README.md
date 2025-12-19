@@ -1,18 +1,19 @@
 # Composition-Aware Image Aesthetic Assessment with Saliency-Guided Feature Modulation
 
-[![Report](https://img.shields.io/badge/PDF-Download%20Report-red.svg)](./docs/Final_Report.pdf)
+[![Report](https://img.shields.io/badge/PDF-Download%20Report-red.svg)](./Final_Report.pdf)
 
 > **Official implementation** for the paper: "Composition-Aware Image Aesthetic Assessment with Saliency-Guided Feature Modulation: Beyond the Eye of the Beholder".
 > 
 > **Authors**: You-Kang Zhou, An Hsu, Pei-En Wu, Shu-Wei Hsu, Jia-Qi Liu  
 > **Institution**: National Yang Ming Chiao Tung University (NYCU), Group 17
+>
 > **Course**: Introduction to Machine Learning(2025)
 > **Instructor**: Berrie Chen
 
 ---
 ## 🎥 Presentation Video
 
-[![Watch the video](https://img.youtube.com/vi/WSACYn0GRmE/maxresdefault.jpg)](https://www.youtube.com/watch?v=WSACYn0GRmE)
+[![Watch the video](./assets/cover.jpg)](https://www.youtube.com/watch?v=WSACYn0GRmE)
 
 > Click the image above to watch the demo on YouTube.
 
@@ -51,7 +52,7 @@ Comparison with state-of-the-art methods on the **CADB Dataset**:
 
 | Material | Format | Description |
 | :--- | :---: | :--- |
-| **Final Report** | [![PDF](https://img.shields.io/badge/View-PDF-red)](./docs/Final_Report.pdf) | The comprehensive technical report (CVPR format). |
+| **Final Report** | [![PDF](https://img.shields.io/badge/View-PDF-red)](./Final_Report.pdf) | The comprehensive technical report (CVPR format). |
 | **Presentation** | [![PDF](https://img.shields.io/badge/View-Slides-red)](./docs/Presentation.pdf) | Slides used for the final presentation. |
 
 ## 🛠️ Installation
@@ -131,12 +132,12 @@ Visit `http://localhost:5000` to try the demo.
 ## 🖼️ Qualitative Analysis
 
 <div align="center">
-  <img src="assets/gradcam_comparison.png" width="800px" />
+  <img src="assets/gradcam_comparison.jpg" width="800px" />
 </div>
 
 **Grad-CAM Visualization:**
-- **Baseline (ResNet-50):** Often attends to background textures or irrelevant objects[cite: 297].
-- **Ours (ConvNeXt V2 + SGFM):** Consistently focuses on the main subject (e.g., the cat) and follows key compositional lines, aligning closely with human visual perception[cite: 299].
+- **Baseline (ResNet-50):** Often attends to background textures or irrelevant objects.
+- **Ours (ConvNeXt V2 + SGFM):** Consistently focuses on the main subject (e.g., the cat) and follows key compositional lines, aligning closely with human visual perception.
 
 ---
 
@@ -149,6 +150,7 @@ Visit `http://localhost:5000` to try the demo.
 ├── phase3_swin_opt/    # Swin-T + Layout Queries
 ├── phase4_convnext/    # Final Model (ConvNeXt V2 + SGFM + GRN)
 ├── app_demo/           # Flask Web Application (Backend + Frontend)
+├── Final_Report.pdf    # Our Final project report paper
 └── requirements.txt
 ```
 
