@@ -161,38 +161,41 @@ Visit `http://localhost:5000` to try the demo.
   <tr>
     <td align="center">
       <a href="https://github.com/slashotw">
-        <img src="https://github.com/slashotw.png?size=100" width="100px;" alt=""/>
+        <img src="https://github.com/slashotw.png?size=100" width="50px;" alt=""/>
         <br />
         <sub><b>You-Kang Zhou</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/mikehsuhoodie">
-        <img src="https://github.com/mikehsuhoodie.png?size=100" width="100px;" alt=""/>
+        <img src="https://github.com/mikehsuhoodie.png?size=100" width="50px;" alt=""/>
         <br />
         <sub><b>An Hsu</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/peienwu1216">
-        <img src="https://github.com/peienwu1216.png?size=100" width="100px;" alt=""/>
+        <img src="https://github.com/peienwu1216.png?size=100" width="50px;" alt=""/>
         <br />
         <sub><b>Pei-En Wu</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/sophiehsu0213">
-        <img src="https://github.com/sophiehsu0213.png?size=100" width="100px;" alt=""/>
+        <img src="https://github.com/sophiehsu0213.png?size=100" width="50px;" alt=""/>
         <br />
         <sub><b>Shu-Wei Hsu</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/kiki0518">
-        <img src="https://github.com/kiki0518.png?size=100" width="100px;" alt=""/>
+        <img src="https://github.com/kiki0518.png?size=100" width="50px;" alt=""/>
         <br />
         <sub><b>Jia-Qi Liu</b></sub>
       </a>
     </td>
   </tr>
 </table>
+
+## Contact
+If you have any questions or suggestions, feel free to contact the author via [Email](mailto:peienwu.ee13@nycu.edu.tw).
