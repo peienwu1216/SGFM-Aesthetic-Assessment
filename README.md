@@ -167,8 +167,8 @@ Visit `http://localhost:5000` to try the demo.
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/mikehsuhoodie">
-        <img src="https://github.com/mikehsuhoodie.png?size=100" width="50px;" alt=""/>
+      <a href="https://github.com/sophiehsu0213">
+        <img src="https://github.com/sophiehsu0213.png?size=100" width="50px;" alt=""/>
         <br />
         <sub><b>An Hsu</b></sub>
       </a>
@@ -181,8 +181,8 @@ Visit `http://localhost:5000` to try the demo.
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/sophiehsu0213">
-        <img src="https://github.com/sophiehsu0213.png?size=100" width="50px;" alt=""/>
+      <a href="https://github.com/mikehsuhoodie">
+        <img src="https://github.com/mikehsuhoodie.png?size=100" width="50px;" alt=""/>
         <br />
         <sub><b>Shu-Wei Hsu</b></sub>
       </a>
